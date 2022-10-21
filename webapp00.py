@@ -13,4 +13,4 @@ st.header("Abacaxi em tudo!")
 st.subheader("bem vindo ao mononucleose!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("um site para fazerem amigos!")
