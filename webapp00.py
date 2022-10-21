@@ -13,6 +13,7 @@ st.header("bem vindo!")
 st.subheader("bem vindo!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("um site para fazerem amigos!")
+st.write("contra o comunismo")
+
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("click no link abaixo")
