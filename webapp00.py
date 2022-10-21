@@ -12,11 +12,9 @@ st.header("bem vindo!")
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("contra o comunismo!")
 
-# Use st.write("") para adicionar um texto ao seu Web app
-st.write("")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("click no link abaixo")
+st.write("click no link abaixo👇")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("https://youtu.be/nyDIXb53-SU")
