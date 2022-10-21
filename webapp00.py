@@ -3,7 +3,6 @@
 #import the library
 import streamlit as st
 
-st.imagen("ExH03moXEAIkkzo.jpg")
   
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("whatsapp 2")
