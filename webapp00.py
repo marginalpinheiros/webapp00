@@ -7,7 +7,7 @@ import streamlit as st
 st.title("whatsapp 2")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Abacaxi em tudo!")
+st.header("bem vindo!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("bem vindo!")
@@ -15,4 +15,4 @@ st.subheader("bem vindo!")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("um site para fazerem amigos!")
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("                        click no link abaixo")
+st.write("click no link abaixo")
